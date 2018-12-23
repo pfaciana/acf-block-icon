@@ -58,7 +58,7 @@
 						block.icon = createIconElement(icon);
 					}
 					else if (iconSrc = iconObject(icon.src)) {
-						block.icon.src = createIconElement(iconSrc, 'svg' in icon ? iconObject(icon.svg) : false);
+						block.icon.src = createIconElement(iconSrc);
 					}
 				}
 			});
