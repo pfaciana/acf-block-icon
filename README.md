@@ -16,6 +16,8 @@ License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html  
 
 =====================================================================  
+
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;  
-without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
-=====================================================================   
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+=====================================================================  
